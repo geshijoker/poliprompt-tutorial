@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+PoliPrompt - Python library for Political Analysis with LLM.
 """
 
 __version__ = "0.1.0"
